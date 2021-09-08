@@ -1,2 +1,3 @@
-class Post < ApplicationRecord
+class BookClub < ApplicationRecord
 end
+
